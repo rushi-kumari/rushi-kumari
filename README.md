@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rusi-kumari
-- 👀 I’m interested in FULL Stack Development
+- 👀 I’m interested in FULL Stack Development currently working as backend develpoer for 4 years.
 - 🌱 I’m currently working on projects with React, MongoDB, Kafka, Microservices, AWS, Java ans Springboot.
 - 💞️ I’m looking to collaborate on Frontend/Backend Projects
 - 📫 How to reach me at <a href="linkedin.com/in/rusi-kumari-6560b41a6">Linkedin</a>
